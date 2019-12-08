@@ -11,9 +11,11 @@ Please see below for component support against their native implementation.
 - [ ] Basic Inputs
 - [ ] BottomNavigation
 - [ ] BottomSheet
+- [ ] Button
 - [ ] CalendarView
 - [ ] DateTimePicker
 - [ ] Drawer
+- [ ] Icons
 - [ ] ListItemView
 - [ ] PeoplePickerView
 - [ ] PersonaChipView
